@@ -1,7 +1,7 @@
 {
   "hosting": {
     "site": "sarzeno",
-    "public": "/",
+    "public": "build",
     "ignore": [
       "firebase.json",
       "**/.*",
