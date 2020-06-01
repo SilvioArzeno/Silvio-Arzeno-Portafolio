@@ -4,11 +4,11 @@ A work in progress to showcase some of my past projects and future projects as w
 
 ## Contact me
 
-# LinkedIn
+### LinkedIn
 https://www.linkedin.com/in/silvioarzeno/
 
-# Gmail
+### Gmail
 silviodanielarzeno@gmail.com
 
-# Github
+### Github
 https://github.com/SilvioArzeno`~
