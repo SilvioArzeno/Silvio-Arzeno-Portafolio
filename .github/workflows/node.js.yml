@@ -33,8 +33,6 @@ jobs:
     steps:
      - name: Checkout Repo
        uses: actions/checkout@master
-     - name: Downlaod Artifact
-       uses: w9jds/firebase-action@master
        with:
          args: deploy --only hosting
        env:
