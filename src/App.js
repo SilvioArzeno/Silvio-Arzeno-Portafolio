@@ -1,10 +1,14 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import './SomeList'
+import ShowList from './SomeList';
 
 function App() {
   return (
+    
     <div className="App">
+      <ShowList/>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         
@@ -14,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Click Here for more info
+         Github
         </a>
       </header>
     </div>

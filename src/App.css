@@ -1,3 +1,10 @@
+.TestList{
+  color: whitesmoke;
+  text-indent: 0%;
+  text-align: left;
+}
+
+
 .App {
   text-align: center;
 }
